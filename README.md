@@ -1,3 +1,3 @@
-Hi, I'm `officia11y` on all socials.
+i'm just bored 🤷‍♂️
 
-NOW FUCK OFF!!
+print("goodbye world") :D
